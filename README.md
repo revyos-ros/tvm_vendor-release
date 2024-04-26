@@ -1,3 +1,26 @@
+## tvm_vendor (humble) - 0.9.1-3
+
+The packages in the `tvm_vendor` repository were released into the `humble` distro by running `/usr/bin/bloom-release --override-release-repository-url=git@github.com:revyos-ros/tvm_vendor-release.git -r humble tvm_vendor` on `Fri, 26 Apr 2024 02:16:21 -0000`
+
+The `tvm_vendor` package was released.
+
+Version of package(s) in repository `tvm_vendor`:
+
+- upstream repository: https://github.com/autowarefoundation/tvm_vendor.git
+- release repository: https://github.com/ros2-gbp/tvm_vendor-release.git
+- rosdistro version: `0.9.1-1`
+- old version: `0.9.1-2`
+- new version: `0.9.1-3`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## tvm_vendor (rolling) - 0.9.1-1
 
 The packages in the `tvm_vendor` repository were released into the `rolling` distro by running `/home/daisuke/.local/bin/bloom-release --rosdistro rolling --track rolling tvm_vendor` on `Thu, 10 Nov 2022 04:48:55 -0000`
